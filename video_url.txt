@@ -1,0 +1,5 @@
+Player URL:
+https://gixermerit.github.io/player/?list=https://raw.githubusercontent.com/gixermerit/developer-roadmap-0d4c/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/gixermerit/developer-roadmap-0d4c/refs/heads/master/github_master.m3u8
